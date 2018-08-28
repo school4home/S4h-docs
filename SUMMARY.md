@@ -1,6 +1,6 @@
 # Table of contents
 
-* [S4h-docs](README.md)
+* [Bem-vindo](README.md)
 * [Documentação](documentacao/README.md)
   * [5W2H](documentacao/5w2h.md)
   * [Documento de Visão](documentacao/documento-de-visao.md)
