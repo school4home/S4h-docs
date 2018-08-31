@@ -72,3 +72,19 @@ Encontradas através desse [artigo](https://www.homeschool.com/articles/top100_2
 
 **Homeschool Buyers Co-op** &lt;[www.homeschoolbuyersco-op.org](www.homeschoolbuyersco-op.org)&gt; Acesso em: 31/08/2018
 
+## 2. Posicionamento {#2-posicionamento}
+
+### 2.1 Oportunidade de Negócios {#2-1-oportunidade-de-negocios}
+
+Diante de 4 problemas encontrados no contexto educacional, a School4Home busca ser uma boa opção para solucionar ou evitar os mesmos. 
+
+**School schooting:** Um school schooting \(tiroteio na escola\) é um ataque a uma instituição educacional, como uma escola ou universidade, envolvendo o uso de arma \(s\) de fogo.
+
+**Polarização política:** 
+
+\*\*\*\*
+
+
+
+
+
