@@ -58,3 +58,17 @@ Atualmente existe um grande debate no que diz respeito a qual modelo educacional
 
 Este documento contém detalhes a respeito das características do sistema a ser desenvolvido, esclarecendo os problemas que se busca mitigar e como as soluções propostas atendem a esses requisitos. A organização deste documento se dá da seguinte maneira: inicialmente estão esclarecidas as razões que influenciaram o desenvolvimento da aplicação, assim como a descrição dos envolvidos. E por fim são descritos os recursos do produto e suas funcionalidades.
 
+### 1.4 Referências {#1-4-referencias}
+
+Não possuímos referencia atualmente no Brasil, entretanto temos várias referencias pelo mundo.
+
+Encontradas através desse [artigo](https://www.homeschool.com/articles/top100_2017) que busca elicitar os melhores sites educacionais:
+
+**Big Whirled** &lt;[https://bigwhirled.com/](https://bigwhirled.com/)/&gt; Acesso em: 31/08/2018
+
+**Homeschool.com** &lt;[www.homeschool.com](www.homeschool.com)&gt; Acesso em: 31/08/2018
+
+**4Knowledge-4Fun** &lt;[www.4knowledge-4fun.com](www.4knowledge-4fun.com)&gt; Acesso em: 31/08/2018
+
+**Homeschool Buyers Co-op** &lt;[www.homeschoolbuyersco-op.org](www.homeschoolbuyersco-op.org)&gt; Acesso em: 31/08/2018
+
