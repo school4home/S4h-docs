@@ -4,7 +4,8 @@ Histórico de Revisão
 
 | Data | Versão | Descrição | Autor\(res\) |
 | :--- | :--- | :--- | :--- |
-| 31/08/2018 | 1.0 | Introdução | Thiago Ribeiro |
+| 31/08/2018 | 1.0 | Introdução, Oportunidade de Negócio | Thiago Ribeiro |
+| 03/09/2018 | 2.0 | Posicionamento | Thiago Ribeiro |
 
 ## Índice
 
@@ -76,11 +77,39 @@ Encontradas através desse [artigo](https://www.homeschool.com/articles/top100_2
 
 ### 2.1 Oportunidade de Negócios {#2-1-oportunidade-de-negocios}
 
-Diante de 4 problemas encontrados no contexto educacional, a School4Home busca ser uma boa opção para solucionar ou evitar os mesmos. 
+Diante de alguns problemas ou preferencias encontrados no contexto educacional, a School4Home busca ser uma boa opção para solucionar ou evitar os mesmos.
+
+**Obs**: _Foi encontrado um público que sente esses problemas e a sua análise de negócio deve ser realizada desassociada a posicionamento no que diz respeito a posse de arma, posição politica e cosmovisão de gênero._
 
 **School schooting:** Um school schooting \(tiroteio na escola\) é um ataque a uma instituição educacional, como uma escola ou universidade, envolvendo o uso de arma \(s\) de fogo.
 
-**Polarização política:** 
+**Polarização política:** Existe extremos políticos que são muitas vezes opostos no qual professores e pais recorrentemente divergem, logo, os alunos estão frequentemente expostos a professores que doutrinam os alunos de uma maneira discordante ao ensino dos pais.
+
+**Relativização do gênero:** Aquilo que identifica e diferencia homens e mulheres está sendo relativizado em algumas escolas e isso embora agrade uma parcela, desagrada outra.
+
+**Mobilidade** **:** Alunos que viajam frequentemente, seja por ser atletas ou por possuir pais que viajam a negócios, fatalmente convivem com o problema de estar sempre se matriculando em uma nova escola no qual implica muitas vezes no mal desempenho do aluno. 
+
+
+
+### 2.2 Descrição do Problema {#2-2-descricao-do-problema}
+
+| **O problema** seria | A ausência de uma plataforma para auxiliar o ensino doméstico |
+| :--- | :--- |
+| **que afeta** | Pais, tutores e alunos dos mesmos |
+| **cujo impacto é** | um desgaste dos pais e tutores na capacitação técnica e um eventual ensino não qualificado |
+| **e uma boa solução seria** | uma plataforma no qual permite e auxilie os pais e tutores no ensino doméstico disponibilizando um conteúdo elaborado por profissionais altamente qualificados |
+
+
+
+### 2.3 Sentença de Posição do Produto {#2-3-sentenca-de-posicao-do-produto}
+
+| **Para** | os pais e tutores que realizam homeschooling |
+| :--- | :--- |
+| **que** | estão interessados em encontrar uma maneira mais fácil, adequada e mais qualificada de ensinar seus alunos |
+| **o school4home** | é uma plataforma |
+| **que** | auxilia o ensino domiciliar |
+| **diferente de** | uma educação domiciliar tradicional no qual o ensino depende tão somente da capacitação técnica dos pais e tutores |
+| **nosso produto** | oferece uma maneira de ensinar os alunos com o auxilio de uma plataforma para o melhor desenvolvimento do aluno. |
 
 \*\*\*\*
 
