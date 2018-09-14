@@ -81,7 +81,7 @@ Diante de alguns problemas ou preferencias encontrados no contexto educacional, 
 
 **Obs**: _Foi encontrado um público que sente esses problemas e a sua análise de negócio deve ser realizada desassociada a posicionamento no que diz respeito a posse de arma, posição politica e cosmovisão de gênero._
 
-**School schooting:** Um school schooting \(tiroteio na escola\) é um ataque a uma instituição educacional, como uma escola ou universidade, envolvendo o uso de arma \(s\) de fogo.
+**School shooting:** Um school shooting \(tiroteio na escola\) é um ataque a uma instituição educacional, como uma escola ou universidade, envolvendo o uso de arma \(s\) de fogo.
 
 **Polarização política:** Existe extremos políticos que são muitas vezes opostos no qual professores e pais recorrentemente divergem, logo, os alunos estão frequentemente expostos a professores que doutrinam os alunos de uma maneira discordante ao ensino dos pais.
 
