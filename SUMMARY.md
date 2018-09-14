@@ -8,7 +8,7 @@
 * [Engenharia de Requisitos](engenharia-de-requisitos/README.md)
   * [Rich Picture](engenharia-de-requisitos/rich-picture.md)
 * [Gerenciamento de Projeto](gerenciamento-de-projeto/README.md)
-  * [Guia de Políticas e Contribuição](gerenciamento-de-projeto/guia-de-politicas-e-contribuicao.md)
+  * [Política de Branches e Contribuição](gerenciamento-de-projeto/guia-de-politicas-e-contribuicao.md)
   * [Atas de Reunião](gerenciamento-de-projeto/atas-de-reuniao.md)
 * [Abordagem Metodológica](abordagem-metodologica/README.md)
   * [Modelagem do Processo](abordagem-metodologica/modelagem-do-processo.md)

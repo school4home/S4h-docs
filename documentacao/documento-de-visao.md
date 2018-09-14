@@ -53,7 +53,7 @@ O objetivo deste documento é explicar e esclarecer a respeito do escopo do proj
 
 ### 1.2 Escopo {#1-2-escopo}
 
-Atualmente existe um grande debate no que diz respeito a qual modelo educacional é o mais ideal para os estudantes. Uns julgam que a educação familiar é o modelo mais adequado e por outro lado muitos consideram a educação tradicional, no qual o aluno deve ir para a escola, se inserir em turmas com outros alunos e aprender com um professor seja o melhor modelo educacional. Diante desse quadro e mais alguns aspectos que serão melhor elaborados no restante do documento, o School4Home busca ser uma plataforma para auxiliar as pessoas que preferem o ensino doméstico, ferramenta que concederá um suporte educacional aos pais e/ou tutores e aos respectivos alunos em suas casas. 
+Atualmente existe um grande debate no que diz respeito a qual modelo educacional é o mais ideal para os estudantes. Uns julgam que a educação familiar é o modelo mais adequado e por outro lado muitos consideram a educação tradicional, no qual o aluno deve ir para a escola, se inserir em turmas com outros alunos e aprender com um professor seja o melhor modelo educacional. Diante desse quadro e mais alguns aspectos que serão melhor elaborados no restante do documento, o School4Home busca ser uma plataforma para auxiliar as pessoas que preferem o ensino doméstico, ferramenta que concederá um suporte educacional aos pais e/ou tutores e aos respectivos alunos em suas casas.
 
 ### 1.3 Visão Geral do Documento {#1-3-visao-geral-do-documento}
 
@@ -67,11 +67,11 @@ Encontradas através desse [artigo](https://www.homeschool.com/articles/top100_2
 
 **Big Whirled** &lt;[https://bigwhirled.com/](https://bigwhirled.com/)/&gt; Acesso em: 31/08/2018
 
-**Homeschool.com** &lt;[www.homeschool.com](www.homeschool.com)&gt; Acesso em: 31/08/2018
+**Homeschool.com** &lt;[www.homeschool.com](https://github.com/school4home/S4h-docs/tree/bd26c81e5d530d0d0cf6730f9ebcef154b24ef2e/documentacao/www.homeschool.com)&gt; Acesso em: 31/08/2018
 
-**4Knowledge-4Fun** &lt;[www.4knowledge-4fun.com](www.4knowledge-4fun.com)&gt; Acesso em: 31/08/2018
+**4Knowledge-4Fun** &lt;[www.4knowledge-4fun.com](https://github.com/school4home/S4h-docs/tree/bd26c81e5d530d0d0cf6730f9ebcef154b24ef2e/documentacao/www.4knowledge-4fun.com)&gt; Acesso em: 31/08/2018
 
-**Homeschool Buyers Co-op** &lt;[www.homeschoolbuyersco-op.org](www.homeschoolbuyersco-op.org)&gt; Acesso em: 31/08/2018
+**Homeschool Buyers Co-op** &lt;[www.homeschoolbuyersco-op.org](https://github.com/school4home/S4h-docs/tree/bd26c81e5d530d0d0cf6730f9ebcef154b24ef2e/documentacao/www.homeschoolbuyersco-op.org)&gt; Acesso em: 31/08/2018
 
 ## 2. Posicionamento {#2-posicionamento}
 
@@ -87,9 +87,7 @@ Diante de alguns problemas ou preferencias encontrados no contexto educacional, 
 
 **Relativização do gênero:** Aquilo que identifica e diferencia homens e mulheres está sendo relativizado em algumas escolas e isso embora agrade uma parcela, desagrada outra.
 
-**Mobilidade** **:** Alunos que viajam frequentemente, seja por ser atletas ou por possuir pais que viajam a negócios, fatalmente convivem com o problema de estar sempre se matriculando em uma nova escola no qual implica muitas vezes no mal desempenho do aluno. 
-
-
+**Mobilidade** **:** Alunos que viajam frequentemente, seja por ser atletas ou por possuir pais que viajam a negócios, fatalmente convivem com o problema de estar sempre se matriculando em uma nova escola no qual implica muitas vezes no mal desempenho do aluno.
 
 ### 2.2 Descrição do Problema {#2-2-descricao-do-problema}
 
@@ -98,8 +96,6 @@ Diante de alguns problemas ou preferencias encontrados no contexto educacional, 
 | **que afeta** | Pais, tutores e alunos dos mesmos |
 | **cujo impacto é** | um desgaste dos pais e tutores na capacitação técnica e um eventual ensino não qualificado |
 | **e uma boa solução seria** | uma plataforma no qual permite e auxilie os pais e tutores no ensino doméstico disponibilizando um conteúdo elaborado por profissionais altamente qualificados |
-
-
 
 ### 2.3 Sentença de Posição do Produto {#2-3-sentenca-de-posicao-do-produto}
 
@@ -112,8 +108,4 @@ Diante de alguns problemas ou preferencias encontrados no contexto educacional, 
 | **nosso produto** | oferece uma maneira de ensinar os alunos com o auxilio de uma plataforma para o melhor desenvolvimento do aluno. |
 
 \*\*\*\*
-
-
-
-
 
