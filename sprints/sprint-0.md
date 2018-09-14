@@ -16,13 +16,12 @@ description: Planning
 | :--- | :--- |
 | 5W2H |  |
 | Rich Picture |  |
-| Documento de visão |  |
+| Documento de Visão |  |
+| Documento de Arquitetura |  |
 | Politica de Branch e Contribuição |  |
 | Cenário e Léxico |  |
 | NFR |  |
-| Caso de uso |  |
 | Gerenciamento e Configuração de Software |  |
-| Diagrama de Caso de Uso |  |
 | Diagrama de Classe |  |
 | Configurar ambiente front-end e back-end |  |
 
