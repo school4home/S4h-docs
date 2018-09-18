@@ -6,6 +6,7 @@ Histórico de Revisão
 | :--- | :--- | :--- | :--- |
 | 31/08/2018 | 1.0 | Introdução, Oportunidade de Negócio | Thiago Ribeiro |
 | 03/09/2018 | 2.0 | Posicionamento | Thiago Ribeiro |
+| 17/09/2018 | 3.0 | Usuário, Envolvidos e Visão Geral do Produto | Thiago Ribeiro |
 
 ## Índice
 
@@ -153,4 +154,15 @@ No momento, não há competição no Brasil e possuímos tão somente as nossas 
 | Vitor Menezes | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
 | Weyler Almeida | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
 | Profª. Milene Serrano | Orientadora e Avaliadora do Projeto | Acompanhar, avaliar e orientar o desenvolvimento do projeto. |
+
+## 5. Visão geral do Produto {#5-visao-geral-do-produto}
+
+### 5.1 Perspectiva do produto {#5-1-perspectiva-do-produto}
+
+O School4Home tem como objetivo proporcionar um suporte ao ensino doméstico que possibilita tanto vantagens aos responsáveis pelo ensino quanto para o aluno durante sua jornada estudantil.
+
+### 5.2 Recursos do produto {#5-2-recursos-do-produto}
+
+* Exposição de conteúdos: Possibilita que o usuário tenha contato com conteúdos em textos, videos e questões nos quais serão produzidos com didática e clareza, feito por professores altamente qualificados.
+* Sugestões de trilhas: Conceder e indicar possíveis trilhas para percorrer determinada sequencia de conteúdo no qual o aluno poderá se submeter.
 
