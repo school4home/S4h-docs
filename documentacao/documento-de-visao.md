@@ -69,7 +69,7 @@ Encontradas através desse [artigo](https://www.homeschool.com/articles/top100_2
 
 **Homeschool.com** &lt;[www.homeschool.com](https://github.com/school4home/S4h-docs/tree/bd26c81e5d530d0d0cf6730f9ebcef154b24ef2e/documentacao/www.homeschool.com)&gt; Acesso em: 31/08/2018
 
-**4Knowledge-4Fun** &lt;[www.4knowledge-4fun.com](https://github.com/school4home/S4h-docs/tree/bd26c81e5d530d0d0cf6730f9ebcef154b24ef2e/documentacao/www.4knowledge-4fun.com)&gt; Acesso em: 31/08/2018
+**4Knowledge-4Fun** &lt;[www.4knowledge-4fun.com](www.4knowledge-4fun.com)&gt; Acesso em: 31/08/2018
 
 **Homeschool Buyers Co-op** &lt;[www.homeschoolbuyersco-op.org](https://github.com/school4home/S4h-docs/tree/bd26c81e5d530d0d0cf6730f9ebcef154b24ef2e/documentacao/www.homeschoolbuyersco-op.org)&gt; Acesso em: 31/08/2018
 
@@ -107,5 +107,50 @@ Diante de alguns problemas ou preferencias encontrados no contexto educacional, 
 | **diferente de** | uma educação domiciliar tradicional no qual o ensino depende tão somente da capacitação técnica dos pais e tutores |
 | **nosso produto** | oferece uma maneira de ensinar os alunos com o auxilio de uma plataforma para o melhor desenvolvimento do aluno. |
 
-\*\*\*\*
+## 3. Descrição dos Envolvidos e dos Usuários {#3-descricao-do-usuario}
+
+### 3.1 Descrição dos envolvidos
+
+| Nome | Descrição | Responsabilidade |
+| :--- | :--- | :--- |
+| Equipe de Desenvolvimento | Estudantes da Universidade de Brasília da disciplina de Arquitetura e Desenho de Software | Desenvolver, implementar e implantar o software descrito neste documento |
+
+### 3.2 Usuário {#3-1-usuario}
+
+| **Nome** | **Descrição** | **Responsabilidades** |
+| :--- | :--- | :--- |
+| Clientes | Pais\(ou responsável\) e alunos interessados em adquirir um auxilio no homeschooling. | Utilizar a plataforma de maneira diligente |
+
+### **3.3 Principais necessidades do usuário**
+
+| **Necessidade** | **Problema** | **Solução Proposta** | **Solução Atual** |
+| :--- | :--- | :--- | :--- |
+| O cliente tem a necessidade de um auxilio/suporte no ensino doméstico | A dificuldade de aplicar o homeschooling clássico no qual exige muitas vezes do tutor um desgaste para compreender todo o conteúdo com propriedade | Um sistema web no qual o cliente pode desfrutar de uma plataforma para o apoio ao ensino doméstico | O cliente pode ensinar presencialmente, convidar pessoas voluntárias ou contratar professores particulares |
+
+### **3.4 Ambiente do usuário**
+
+A plataforma deve ser acessada a partir de um dispositivo conectado a internet, utilizando um navegador. A experiência do usuário deve ser semelhante em qualquer que seja o dispositivo, entretanto pode sofrer impacto pela velocidade da internet.
+
+### 3.5 Alternativas e Competição
+
+No momento, não há competição no Brasil e possuímos tão somente as nossas referencias estrangeiras como alternativas.
+
+**3.5.1 Homeschool Buyers Co-op**
+
+![](../.gitbook/assets/image.png)
+
+## 4. Envolvidos {#4-envolvidos}
+
+| **NOME** | **DESCRIÇÃO** | **PRINCIPAIS RESPONSABILIDADES** |
+| :--- | :--- | :--- |
+| Cauê Mateus | Membro da equipe de desenvolvimento | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Caio Felipe | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Emanoel Belchior | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Guilherme da Luz | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Gustavo Braz | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Thiago Ribeiro | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Victor Leite | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Vitor Menezes | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Weyler Almeida | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
+| Profª. Milene Serrano | Orientadora e Avaliadora do Projeto | Acompanhar, avaliar e orientar o desenvolvimento do projeto. |
 
