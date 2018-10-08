@@ -1,9 +1,11 @@
 # Backlog do Produto
 
+| Data | Responsável | Versão | Mudança Realizada |
+| :--- | :--- | :--- | :--- |
+| 08/10/2018 | Caio Nunes | 0.1 | Criação do documento. |
+
 Abaixo se encontram as histórias de usuário elicitadas para o projeto "School4Home".  
 Esta versão contém o backlog atualizado \(elaborado na sprint 0 e atualizado até a sprint corrente\). Aqui será mantido o histórico de todas as alterações no backlog até o fim do projeto.
-
-
 
 | Features | User Stories | Pontuação | Prioridade |
 | :--- | :--- | :--- | :--- |
