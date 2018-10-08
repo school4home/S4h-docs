@@ -16,6 +16,7 @@ description: Planning
 | :--- | :--- |
 | 5W2H |  |
 | Rich Picture |  |
+| Backlog do Produto |  |
 | Documento de Visão |  |
 | Documento de Arquitetura |  |
 | Politica de Branch e Contribuição |  |
