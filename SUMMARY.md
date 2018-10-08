@@ -8,6 +8,7 @@
 * [Engenharia de Requisitos](engenharia-de-requisitos/README.md)
   * [NFR](engenharia-de-requisitos/nfr.md)
   * [Rich Picture](engenharia-de-requisitos/rich-picture.md)
+  * [Backlog do Produto](engenharia-de-requisitos/backlog-do-produto.md)
 * [Gerenciamento de Projeto](gerenciamento-de-projeto/README.md)
   * [Política de Branches e Contribuição](gerenciamento-de-projeto/guia-de-politicas-e-contribuicao.md)
   * [Atas de Reunião](gerenciamento-de-projeto/atas-de-reuniao.md)
