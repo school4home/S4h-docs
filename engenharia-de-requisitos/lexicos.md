@@ -201,5 +201,82 @@ description: >-
       <td style="text-align:left">Objeto</td>
     </tr>
   </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Série</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Ano; Classe</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Refere-se ao ano letivo que o aluno se encontra.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Aluno faz parte de uma série.</p>
+        <p>Matéria faz parte de uma série..</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Objeto</td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Professor</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Docente</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Atividades que compõem um determinado conteúdo, formuladas para o professor
+        para execução pelo aluno. Atividades podem receber notas.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Professor formula exercícios.</p>
+        <p>Professor seleciona exercícios para execução pelo aluno.</p>
+        <p>Aluno completa exercícios.</p>
+        <p>Professor corrige exercício e, potencialmente, atribui nota.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Objeto</td>
+    </tr>
+  </tbody>
 </table>
 
