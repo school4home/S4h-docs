@@ -255,6 +255,46 @@ description: >-
     <tr>
       <td style="text-align:left"><b>Nome</b>
       </td>
+      <td style="text-align:left">Responsável</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Pai; Mãe; Representante legal</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Simboliza o representante que contrata o serviço do S4H para seu filho.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Serviço é contratado por responsável.</p>
+        <p>Responsável visualiza progresso de aluno.</p>
+        <p>Coordenador contata responsável.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Objeto</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
       <td style="text-align:left">Série</td>
     </tr>
     <tr>
