@@ -93,6 +93,45 @@ description: >-
     <tr>
       <td style="text-align:left"><b>Nome</b>
       </td>
+      <td style="text-align:left">Coordenador</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Orientador</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Simboliza aquele que monitora uma determinada série.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Série é monitorada por coordenador.</p>
+        <p>Responsável contata coordenador.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Objeto</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
       <td style="text-align:left">Exercício</td>
     </tr>
     <tr>
@@ -120,6 +159,10 @@ description: >-
       <td style="text-align:left"><b>Classificação</b>
       </td>
       <td style="text-align:left">Objeto</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table><table>
@@ -270,6 +313,82 @@ description: >-
         <p>Professor seleciona exercícios para execução pelo aluno.</p>
         <p>Aluno completa exercícios.</p>
         <p>Professor corrige exercício e, potencialmente, atribui nota.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Objeto</td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Texto</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Escrito</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Refere-se a escritos de determinado assunto dentro de um conteúdo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Professor seleciona texto para estudo por aluno.</p>
+        <p>Aluno estuda texto.</p>
+        <p>Exercício pode conter texto.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Objeto</td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Vídeo</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Clipe; Gravação</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Refere-se a uma gravação abordando algum tópico dentro do conteúdo estudado.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Professorseleciona vídeo para estudo por aluno.
+          <br />Aluno estuda vídeo.</p>
+        <p>Exercício pode conter vídeo.</p>
       </td>
     </tr>
     <tr>
