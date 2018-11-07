@@ -10,7 +10,7 @@ Histórico de Revisão
 
 ## Índice
 
-### 1. Introdução {#1-introducao-1}
+### 1. Introdução <a id="1-introducao-1"></a>
 
 1.1 Objetivos
 
@@ -20,7 +20,7 @@ Histórico de Revisão
 
 1.4 Referências
 
-### 2. Posicionamento {#2-posicionamento-1}
+### 2. Posicionamento <a id="2-posicionamento-1"></a>
 
 2.1 Oportunidade de Negócios
 
@@ -28,7 +28,7 @@ Histórico de Revisão
 
 2.3 Sentença de Posição do Produto
 
-### 3. Descrição do usuário {#3-descricao-do-usuario-1}
+### 3. Descrição do usuário <a id="3-descricao-do-usuario-1"></a>
 
 3.1 Usuário
 
@@ -38,9 +38,9 @@ Histórico de Revisão
 
 3.4 Alternativas e competição
 
-### 4. Envolvidos {#4-envolvidos-1}
+### 4. Envolvidos <a id="4-envolvidos-1"></a>
 
-### 5. Visão geral do produto {#5-visao-geral-do-produto-1}
+### 5. Visão geral do produto <a id="5-visao-geral-do-produto-1"></a>
 
 5.1 Perspectiva do produto
 
@@ -48,19 +48,19 @@ Histórico de Revisão
 
 ## 1. Introdução
 
-### 1.1 Objetivos {#1-1-objetivos}
+### 1.1 Objetivos <a id="1-1-objetivos"></a>
 
 O objetivo deste documento é explicar e esclarecer a respeito do escopo do projeto, auxiliando os desenvolvedores e leitores a entender a proposta do produto e também é objetivo deste documento introduzir o posicionamento do software frente ao problema a se solucionar, aos seus usuário e ao público em que se encontra.
 
-### 1.2 Escopo {#1-2-escopo}
+### 1.2 Escopo <a id="1-2-escopo"></a>
 
 Atualmente existe um grande debate no que diz respeito a qual modelo educacional é o mais ideal para os estudantes. Uns julgam que a educação familiar é o modelo mais adequado e por outro lado muitos consideram a educação tradicional, no qual o aluno deve ir para a escola, se inserir em turmas com outros alunos e aprender com um professor seja o melhor modelo educacional. Diante desse quadro e mais alguns aspectos que serão melhor elaborados no restante do documento, o School4Home busca ser uma plataforma para auxiliar as pessoas que preferem o ensino doméstico, ferramenta que concederá um suporte educacional aos pais e/ou tutores e aos respectivos alunos em suas casas.
 
-### 1.3 Visão Geral do Documento {#1-3-visao-geral-do-documento}
+### 1.3 Visão Geral do Documento <a id="1-3-visao-geral-do-documento"></a>
 
 Este documento contém detalhes a respeito das características do sistema a ser desenvolvido, esclarecendo os problemas que se busca mitigar e como as soluções propostas atendem a esses requisitos. A organização deste documento se dá da seguinte maneira: inicialmente estão esclarecidas as razões que influenciaram o desenvolvimento da aplicação, assim como a descrição dos envolvidos. E por fim são descritos os recursos do produto e suas funcionalidades.
 
-### 1.4 Referências {#1-4-referencias}
+### 1.4 Referências <a id="1-4-referencias"></a>
 
 Não possuímos referencia atualmente no Brasil, entretanto temos várias referencias pelo mundo.
 
@@ -74,9 +74,9 @@ Encontradas através desse [artigo](https://www.homeschool.com/articles/top100_2
 
 **Homeschool Buyers Co-op** &lt;[www.homeschoolbuyersco-op.org](https://github.com/school4home/S4h-docs/tree/bd26c81e5d530d0d0cf6730f9ebcef154b24ef2e/documentacao/www.homeschoolbuyersco-op.org)&gt; Acesso em: 31/08/2018
 
-## 2. Posicionamento {#2-posicionamento}
+## 2. Posicionamento <a id="2-posicionamento"></a>
 
-### 2.1 Oportunidade de Negócios {#2-1-oportunidade-de-negocios}
+### 2.1 Oportunidade de Negócios <a id="2-1-oportunidade-de-negocios"></a>
 
 Diante de alguns problemas ou preferencias encontrados no contexto educacional, a School4Home busca ser uma boa opção para solucionar ou evitar os mesmos.
 
@@ -90,7 +90,7 @@ Diante de alguns problemas ou preferencias encontrados no contexto educacional, 
 
 **Mobilidade** **:** Alunos que viajam frequentemente, seja por ser atletas ou por possuir pais que viajam a negócios, fatalmente convivem com o problema de estar sempre se matriculando em uma nova escola no qual implica muitas vezes no mal desempenho do aluno.
 
-### 2.2 Descrição do Problema {#2-2-descricao-do-problema}
+### 2.2 Descrição do Problema <a id="2-2-descricao-do-problema"></a>
 
 | **O problema** seria | A ausência de uma plataforma para auxiliar o ensino doméstico |
 | :--- | :--- |
@@ -98,7 +98,7 @@ Diante de alguns problemas ou preferencias encontrados no contexto educacional, 
 | **cujo impacto é** | um desgaste dos pais e tutores na capacitação técnica e um eventual ensino não qualificado |
 | **e uma boa solução seria** | uma plataforma no qual permite e auxilie os pais e tutores no ensino doméstico disponibilizando um conteúdo elaborado por profissionais altamente qualificados |
 
-### 2.3 Sentença de Posição do Produto {#2-3-sentenca-de-posicao-do-produto}
+### 2.3 Sentença de Posição do Produto <a id="2-3-sentenca-de-posicao-do-produto"></a>
 
 | **Para** | os pais e tutores que realizam homeschooling |
 | :--- | :--- |
@@ -108,7 +108,7 @@ Diante de alguns problemas ou preferencias encontrados no contexto educacional, 
 | **diferente de** | uma educação domiciliar tradicional no qual o ensino depende tão somente da capacitação técnica dos pais e tutores |
 | **nosso produto** | oferece uma maneira de ensinar os alunos com o auxilio de uma plataforma para o melhor desenvolvimento do aluno. |
 
-## 3. Descrição dos Envolvidos e dos Usuários {#3-descricao-do-usuario}
+## 3. Descrição dos Envolvidos e dos Usuários <a id="3-descricao-do-usuario"></a>
 
 ### 3.1 Descrição dos envolvidos
 
@@ -116,7 +116,7 @@ Diante de alguns problemas ou preferencias encontrados no contexto educacional, 
 | :--- | :--- | :--- |
 | Equipe de Desenvolvimento | Estudantes da Universidade de Brasília da disciplina de Arquitetura e Desenho de Software | Desenvolver, implementar e implantar o software descrito neste documento |
 
-### 3.2 Usuário {#3-1-usuario}
+### 3.2 Usuário <a id="3-1-usuario"></a>
 
 | **Nome** | **Descrição** | **Responsabilidades** |
 | :--- | :--- | :--- |
@@ -140,7 +140,7 @@ No momento, não há competição no Brasil e possuímos tão somente as nossas 
 
 ![](../.gitbook/assets/image.png)
 
-## 4. Envolvidos {#4-envolvidos}
+## 4. Envolvidos <a id="4-envolvidos"></a>
 
 | **NOME** | **DESCRIÇÃO** | **PRINCIPAIS RESPONSABILIDADES** |
 | :--- | :--- | :--- |
@@ -155,13 +155,13 @@ No momento, não há competição no Brasil e possuímos tão somente as nossas 
 | Weyler Almeida | Membro da equipe de desenvolvimento. | Executar o projeto, além de desenvolver e manter a documentação e o software. |
 | Profª. Milene Serrano | Orientadora e Avaliadora do Projeto | Acompanhar, avaliar e orientar o desenvolvimento do projeto. |
 
-## 5. Visão geral do Produto {#5-visao-geral-do-produto}
+## 5. Visão geral do Produto <a id="5-visao-geral-do-produto"></a>
 
-### 5.1 Perspectiva do produto {#5-1-perspectiva-do-produto}
+### 5.1 Perspectiva do produto <a id="5-1-perspectiva-do-produto"></a>
 
 O School4Home tem como objetivo proporcionar um suporte ao ensino doméstico que possibilita tanto vantagens aos responsáveis pelo ensino quanto para o aluno durante sua jornada estudantil.
 
-### 5.2 Recursos do produto {#5-2-recursos-do-produto}
+### 5.2 Recursos do produto <a id="5-2-recursos-do-produto"></a>
 
 * Exposição de conteúdos: Possibilita que o usuário tenha contato com conteúdos em textos, videos e questões nos quais serão produzidos com didática e clareza, feito por professores altamente qualificados.
 * Sugestões de trilhas: Conceder e indicar possíveis trilhas para percorrer determinada sequencia de conteúdo no qual o aluno poderá se submeter.
