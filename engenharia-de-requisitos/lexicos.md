@@ -44,7 +44,15 @@ description: >-
       <td style="text-align:left">Objeto</td>
     </tr>
   </tbody>
-</table><table>
+</table>|  |  |
+| :--- | :--- |
+| **Nome** | Cadastrar |
+| **Sinônimo\(s\)** | Registrar |
+| **Noção** | Registrar-se no sistema. |
+| **Impacto** | Aluno cadastra sua conta. |
+| **Classificação** | Verbo |
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left"></th>
@@ -119,9 +127,7 @@ description: >-
       <td style="text-align:left">Objeto</td>
     </tr>
   </tbody>
-</table>
-
-<table>
+</table><table>
   <thead>
     <tr>
       <th style="text-align:left"></th>
@@ -160,12 +166,16 @@ description: >-
       </td>
       <td style="text-align:left">Objeto</td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
-</table><table>
+</table>|  |  |
+| :--- | :--- |
+| **Nome** | Logar |
+| **Sinônimo\(s\)** | Acessar; Entrar |
+| **Noção** | Ter acesso à conta cadastrada. |
+| **Impacto** | Aluno loga em sua conta. |
+| **Classificação** | Verbo |
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left"></th>
@@ -282,7 +292,13 @@ description: >-
       <td style="text-align:left">Objeto</td>
     </tr>
   </tbody>
-</table>
+</table>|  |  |
+| :--- | :--- |
+| **Nome** | Realizar Pagamento |
+| **Sinônimo\(s\)** | Pagar; Efetuar Pagamento |
+| **Noção** | Obter ou manter acesso ao plano. |
+| **Impacto** | Responsável realiza pagamento do plano. |
+| **Classificação** | Verbo |
 
 <table>
   <thead>
@@ -332,46 +348,6 @@ description: >-
     <tr>
       <td style="text-align:left"><b>Nome</b>
       </td>
-      <td style="text-align:left">Professor</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Sinônimo(s)</b>
-      </td>
-      <td style="text-align:left">Docente</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Noção</b>
-      </td>
-      <td style="text-align:left">Atividades que compõem um determinado conteúdo, formuladas para o professor
-        para execução pelo aluno. Atividades podem receber notas.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Impacto</b>
-      </td>
-      <td style="text-align:left">
-        <p>Professor formula exercícios.</p>
-        <p>Professor seleciona exercícios para execução pelo aluno.</p>
-        <p>Aluno completa exercícios.</p>
-        <p>Professor corrige exercício e, potencialmente, atribui nota.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Classificação</b>
-      </td>
-      <td style="text-align:left">Objeto</td>
-    </tr>
-  </tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>Nome</b>
-      </td>
       <td style="text-align:left">Texto</td>
     </tr>
     <tr>
@@ -391,6 +367,43 @@ description: >-
         <p>Professor seleciona texto para estudo por aluno.</p>
         <p>Aluno estuda texto.</p>
         <p>Exercício pode conter texto.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Objeto</td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Trilha de Estudos</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Módulo de Estudos; Guia de Estudos</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Guia para orientação dos estudos</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Aluno visualiza trilha de estudos para orientar-se nos estudos.</p>
+        <p>Professor cria trilha de estudos.</p>
       </td>
     </tr>
     <tr>
