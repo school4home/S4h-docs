@@ -63,6 +63,82 @@ description: >-
     <tr>
       <td style="text-align:left"><b>Nome</b>
       </td>
+      <td style="text-align:left">Cadastrar lista de exercícios</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Registrar lista de exercícios</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Registrar uma lista de exercícios para alunos</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Professor cadastra uma lista de exercícios.</p>
+        <p>Aluno realiza lista de exercícios.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Verbo</td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Cadastrar prova</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Registrar prova</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Registrar uma prova para alunos.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Professor cadastra prova.</p>
+        <p>Aluno realiza prova.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Verbo</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
       <td style="text-align:left">Conteúdo</td>
     </tr>
     <tr>
@@ -138,6 +214,43 @@ description: >-
     <tr>
       <td style="text-align:left"><b>Nome</b>
       </td>
+      <td style="text-align:left">Criar aula</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Formular aula; Registrar aula</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Aula é salva para disponibilização para alunos e professores.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Professor cria aula.</p>
+        <p>Aluno visualiza aula.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Verbo</td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
       <td style="text-align:left">Exercício</td>
     </tr>
     <tr>
@@ -165,6 +278,47 @@ description: >-
       <td style="text-align:left"><b>Classificação</b>
       </td>
       <td style="text-align:left">Objeto</td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Fazer upload de vídeo-aula</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sinônimo(s)</b>
+      </td>
+      <td style="text-align:left">Subir vídeo-aula</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Noção</b>
+      </td>
+      <td style="text-align:left">Representa o registro de uma vídeo-aula no sistema.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Impacto</b>
+      </td>
+      <td style="text-align:left">
+        <p>Professor faz upload de vídeo-aula.</p>
+        <p>Aluno assiste vídeo-aula.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Classificação</b>
+      </td>
+      <td style="text-align:left">Verbo</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>|  |  |
