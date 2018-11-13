@@ -1,4 +1,4 @@
-# Sprint 1
+# Sprint 1 - Planning
 
 
 
@@ -32,7 +32,17 @@ Realizar as principais histórias de usuários da S4h.
 | :--- | :--- | :--- |
 | 12/11/2018 | 16/11/2018 | 5 dias |
 
-### 3. Sprint Backlog
+### 
+
+### 3. Papéis
+
+| Papel | Responsável\(is\) |
+| :--- | :--- |
+| Scrum Master | Thiago Ribeiro |
+| Product Owner | Vitor |
+| Scrum Team | Equipe |
+
+### 4. Sprint Backlog
 
 **Histórias de Usuário**
 
