@@ -38,10 +38,10 @@ Realizar as principais histórias de usuários da S4h.
 
 * US01 - Realizar Login
 * US02 - Realizar Cadastro de Usuário
-* US03 - Cadastro de Matérias
-* US012 - Cadastrar aula-texto
-* US014 - Cadastrar lista de exercícios
-* US015 - Cadastrar prova
+* US03 - Manter de Matérias
+* US012 - Manter aula-texto
+* US014 - Manter lista de exercícios
+* US015 - Manter prova
 
   |  | US015 - Cadastrar prova |
   | :--- | :--- |
