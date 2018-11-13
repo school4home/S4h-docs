@@ -21,6 +21,12 @@
         <p>para a Sprint</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">12/11/2018</td>
+      <td style="text-align:left">Caio Nunes</td>
+      <td style="text-align:left">0.2</td>
+      <td style="text-align:left">Adicionando quadro de conhecimento</td>
+    </tr>
   </tbody>
 </table>### 1. Objetivo
 
@@ -58,5 +64,5 @@ Realizar as principais histórias de usuários da S4h.
 
 ### 5. Quadro de Conhecimento
 
-\*\*\*\*
+![](../.gitbook/assets/sem-titulo.png)
 
