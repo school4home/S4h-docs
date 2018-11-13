@@ -53,8 +53,10 @@ Realizar as principais histórias de usuários da S4h.
 * US014 - Manter lista de exercícios
 * US015 - Manter prova
 
-  |  | US015 - Cadastrar prova |
-  | :--- | :--- |
+  | \*\*\*\* |  |  |
+  | :--- | :--- | :--- |
 
+### 5. Quadro de Conhecimento
 
+\*\*\*\*
 
