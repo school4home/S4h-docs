@@ -6,7 +6,7 @@
 
 | Data | Versão | Responsável | Mudança realizada |
 | :--- | :--- | :--- | :--- |
-| **16/03/17** | 0.1 | Caio Nunes, Gustavo Braz | Criação do Documento de Configuração de Software |
+| **12/11/2018** | 0.1 | Caio Nunes, Gustavo Braz | Criação do Documento de Configuração de Software |
 
 ### 1 Introdução
 
