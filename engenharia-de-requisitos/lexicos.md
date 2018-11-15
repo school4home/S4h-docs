@@ -7,6 +7,13 @@ description: >-
 
 # Léxicos
 
+
+
+| Data | Versão | Descrição | Autor\(res\) |
+| :--- | :--- | :--- | :--- |
+| 07/11/2018 | 1.0 | Criação do documento | Vítor Gomes |
+| 08/11/2018 | 1.1 | Finalização léxicos | Vítor Gomes |
+
 <table>
   <thead>
     <tr>
