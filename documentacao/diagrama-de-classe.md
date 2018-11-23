@@ -23,8 +23,9 @@ Esse padrão ocorre no envio de mensagens sobre uma nova nota. Sempre que o alun
 ## Multiton
 
 Esse padrão ocorre nas instâncias de SchoolYear (Série) e Module (Matéria). Isso acontece porque existe um número limitado de séries e de matérias relacionadas a ela, que já sabido desde o lançamento da aplicação. Portanto, a permissão que novos objetos sejam feitos não é necessária. Logo, os objetos são salvos em uma fixture do aplicativo no Django.
-![Diagrama de Classes Composite](imagens/composite.png)  
-[ampliar](imagens/composite.png)  
 
-![Alt Text](https://github.com/{school4home}/{S4h-docs}/raw/{master}/imagens/composite.png)
+## Composite
+
+![](../.gitbook/assets/composite.png)
+
 
