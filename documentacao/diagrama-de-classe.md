@@ -32,3 +32,9 @@ Esse padrão ocorre nas instâncias de SchoolYear (Série) e Module (Matéria). 
 
       ### Hot Spots (Laranja)
     Hot spots são partes genéricas do framework, que são adaptadas a partir da necessidade, sua reutilização acontece principalmente por herança e padrões de projetos.
+    
+## Command
+
+Esse padrão ocorre a partir da maneira que as requisições são tratadas no Django e consequentemente no projeto. A partir da classe HttpRequest, as requisições são tratadas sem saber a operação requisitada ou quem receberá ela.
+
+![](../.gitbook/assets/command.png)
