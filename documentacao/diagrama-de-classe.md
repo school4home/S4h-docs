@@ -25,7 +25,8 @@ Esse padrão ocorre no envio de mensagens sobre uma nova nota. Sempre que o alun
 Esse padrão ocorre nas instâncias de SchoolYear (Série) e Module (Matéria). Isso acontece porque existe um número limitado de séries e de matérias relacionadas a ela, que já sabido desde o lançamento da aplicação. Portanto, a permissão que novos objetos sejam feitos não é necessária. Logo, os objetos são salvos em uma fixture do aplicativo no Django.
 
 ## Composite
-
+  
 ![](../.gitbook/assets/composite.png)
 
-
+      ### Hot Spots (Laranja)
+    Hot spots são partes genéricas do framework, que são adaptadas a partir da necessidade, sua reutilização acontece principalmente por herança e padrões de projetos.
