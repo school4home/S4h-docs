@@ -2,7 +2,7 @@
 
 | Data | Versão | Descrição | Autor\(res\) |
 | :--- | :--- | :--- | :--- |
-| 28/08/2018 | 1.0 | Criação do documento | Thiago Ribeiro |
+| 28/08/2018 | 1.0 | Visão Geral da Aplicação | Thiago Ribeiro |
 | 15/11/2018 | 1.1 | Rich Picture Visão do Usuário + Funcionalidades | Vítor Gomes |
 
 ## Visão Geral da Aplicação
