@@ -19,6 +19,10 @@ Esse padrão ocorre, por exemplo, na classe S4HUser, de maneira que a model cria
 
 Esse padrão ocorre, por exemplo, na variação das classes filhas da classe Material.
 
+## Fabricação Pura
+
+Esse padrão ocorre, por exemplo, na classe de GradeObserver. No mundo real, não há algo exato que represente o aguardar por uma nova nota para notificar o usuário. A classe foi criada para realizar essa atividade, sendo uma fabricação pura do projeto.
+
 # GOF's
 
 ## Observer
