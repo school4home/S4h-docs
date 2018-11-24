@@ -1,8 +1,13 @@
-# Diagrama de Classe e Gof's
+# Diagrama de Classe
 
 ![Autor: Equipe](../.gitbook/assets/first_diagram.jpg)
+Diagrama de Classes v1
 
 ![](../.gitbook/assets/diagramadeclasse.png)
+Diagrama de Classes v1.1
+
+![](../.gitbook/assets/diagramadeclassev3.png)
+Diagrama de Classes v1.2
 
 # GRASPS
 
