@@ -1,4 +1,4 @@
 # Diagrama de Classes (Hotspots)
 
-![](../.gitbook/assets/diagramapacotes.png)
+![](../.gitbook/assets/diagramadeclassehotspots.png)
 Diagrama de Classes com possíveis Hotspots
